@@ -2,15 +2,15 @@
 
 ## Desafio de Código:
 
-_Realizei o desafio em linguagem Java para estudo_
+_Realizei o desafio em linguagem Java para estudo_ 👩‍💻
 
-Faça um programa que calcule e imprima o salário a ser transferido para um funcionário.
+Faça um programa que calcule e imprima o salário a ser transferido para um funcionário. 
 
 Para realizar o cálculo receba o valor bruto do salário e o adicional dos benefícios.
 
 O salário a ser transferido é calculado da seguinte maneira:
 
-_(valor bruto do salário - percentual de imposto mediante ao salário) + adicional dos benefícios_
+- _(valor bruto do salário - percentual de imposto mediante ao salário) + adicional dos benefícios_
 
 Para calcular o **percentual de imposto** segue as aliquotas:
 
